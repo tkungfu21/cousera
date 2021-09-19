@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#main{
+    background-color: red;
+}
+.nav{
+   color:saddlebrown;
+   text-decoration: none;
+}
+.img-dog{
+    height: 100px;
+    width: 100px;
+}
